@@ -22,7 +22,7 @@ $rules = [
         'space' => 'single',
     ],
     'function_declaration' => [
-        'closure_function_spacing' => 'none',
+        'closure_function_spacing' => 'one',
     ],
     'no_blank_lines_after_phpdoc' => true,
     'no_extra_consecutive_blank_lines' => true,
