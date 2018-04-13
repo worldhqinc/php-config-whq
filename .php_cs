@@ -46,5 +46,3 @@ return Config::create()
     ->setRules($rules)
     ->setFinder(Finder::create()->in(__DIR__))
     ->setRiskyAllowed(true);
-
-
